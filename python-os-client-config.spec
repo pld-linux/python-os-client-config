@@ -12,6 +12,7 @@ Release:	1
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/os-client-config/os-client-config-%{version}.tar.gz
+# Source0-md5:	cf0bffcf349932c306fd1d81459b1a9e
 URL:		https://pypi.python.org/pypi/os-client-config
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
