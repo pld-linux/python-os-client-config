@@ -8,7 +8,7 @@
 Summary:	OpenStack Client Configuation Library
 Name:		python-os-client-config
 Version:	1.28.0
-Release:	6
+Release:	7
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/os-client-config/os-client-config-%{version}.tar.gz
