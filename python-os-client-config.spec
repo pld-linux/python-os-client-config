@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Biblioteka konfiguracji klienta OpenStack
 Name:		python-os-client-config
 # keep 1.x here for python2 support
 Version:	1.33.0
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/os-client-config/os-client-config-%{version}.tar.gz
